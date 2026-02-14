@@ -29,13 +29,13 @@ customers
 
 Everything begins with understanding the ***context and pressures in which people operate.***
 
-***Practice***</br>
+***Practice***<br  />
 Keep discovery honest and design intentional, ask:
 - “Who is this for?”
 - “What progress are they trying to make?”
 - “What’s blocking that progress right now?”
 
-***Relation***</br>
+***Relation***<br  />
 Personas help us visualize real-world roles, environments, and behaviors — they give the work a human anchor.
 JTBD defines the progress someone is trying to make, rather than the task they’re doing.
 
@@ -51,7 +51,7 @@ to a **desired state** (confidence, control, simplicity).
 
 ***Shipping a feature isn’t success — enabling progress is.***
 
-***Practice***</br>
+***Practice***<br  />
 Define success through **outcomes**, such as:
 - Faster reconciliation
 - Fewer manual steps
@@ -60,7 +60,7 @@ Define success through **outcomes**, such as:
 
 Measure those — ***not lines of code or story points.***
 
-***Relation***</br>
+***Relation***<br  />
 Use personas to predict how different people define “better,” and test whether your product truly delivers that improvement.
 
 </details>
@@ -72,11 +72,11 @@ Use personas to predict how different people define “better,” and test wheth
 
 People don’t just use products — ***they choose them***, often for emotional or social reasons as much as functional ones.
 
-***Practice***</br>
+***Practice***<br  />
 In design ask: “Why would someone choose this?”
 If the answer isn’t tied to a clear motivation, you’re likely solving the wrong problem.
 
-***Relation***</br>
+***Relation***<br  />
 Personas highlight motivators such as ***ambition, confidence, recognition, trust, or safety.***
 JTBD helps you articulate them:
 
@@ -91,10 +91,10 @@ JTBD helps you articulate them:
 
 Progress happens in loops — ***learn, build, test, refine.***
 
-***Practice***</br>
+***Practice***<br  />
 Iterate fast. Validate early. Let learning shape your roadmap more than assumptions.
 
-***Relation***</br>
+***Relation***<br  />
 JTBD frames product work as a continuous journey; people struggle, explore, adopt, evaluate, and sometimes switch.
 
 </details>
@@ -106,11 +106,11 @@ JTBD frames product work as a continuous journey; people struggle, explore, adop
 
 Every moment of friction, confusion, delay, workarounds, or resistance ***signals unmet needs.***
 
-***Practice***</br>
+***Practice***<br  />
 Instrument, observe, and ask:
 > “Where are people struggling? What is this friction telling us about their deeper goal?”
 
-***Relation***</br>
+***Relation***<br  />
 Personas help us spot where struggles appear. JTBD clarifies why they happen and what progress people are failing to make.
 
 </details>
@@ -122,10 +122,10 @@ Personas help us spot where struggles appear. JTBD clarifies why they happen and
 
 Great products emerge when ***everyone shares the same mental model*** — of who the product is for, what they’re trying to do, and why it matters.
 
-***Practice***</br>
+***Practice***<br  />
 Use personas and job statements as shorthand in standups, planning, and retros — not as documentation, but as ***language for alignment.***
 
-***Relation***</br>
+***Relation***<br  />
 Personas provide a **human reference point**; JTBD provides a ***purpose-driven structure.***
 Together, they align everyone on what “value” truly means.
 
@@ -138,11 +138,11 @@ Together, they align everyone on what “value” truly means.
 
 Innovation only matters if it ***earns trust***.
 
-***Practice***</br>
+***Practice***<br  />
 Design for both innovation and assurance.
 If you change behavior, show that it’s reliable and verifiable.
 
-***Relation***</br>
+***Relation***<br  />
 Personas remind us that ***reliability, compliance, and predictability*** aren’t “boring” — they enable confidence.
 JTBD frames this as part of the job to be done: people want progress that feels safe.
 
@@ -157,11 +157,11 @@ The clearer we are about what someone is trying to accomplish, the simpler the p
 
 ***Simplicity is not minimalism — it’s clarity.***
 
-***Practice***</br>
+***Practice***<br  />
 When evaluating a design or architecture, ask:
 > “Does this make the core job easier, or just add more to manage?”
 
-***Relation***</br>
+***Relation***<br  />
 JTBD helps strip away everything that doesn’t serve the job.
 Personas remind us which complexities are real — and which are self-inflicted.
 
@@ -174,10 +174,10 @@ Personas remind us which complexities are real — and which are self-inflicted.
 
 Stay close to users, customers, and data to ***keep your understanding fresh and grounded.***
 
-***Practice***</br>
+***Practice***<br  />
 Observe. Interview. Shadow. Use feedback cycles to challenge what you think you know.
 
-***Relation***</br>
+***Relation***<br  />
 Personas and jobs are not artifacts to be filed away — they evolve as real people and the business domain evolve.
 
 </details>
@@ -189,10 +189,10 @@ Personas and jobs are not artifacts to be filed away — they evolve as real peo
 
 The final test of product work is whether it ***helps someone make progress better than before.***
 
-***Practice***</br>
+***Practice***<br  />
 Validate early and often. Ask: “Did this help them do their job faster, safer, or with more confidence?” If not — learn and adjust.
 
-***Relation***</br>
+***Relation***<br  />
 Personas and JTBD both demand validation — qualitative (stories, feedback) and quantitative (metrics, adoption).
 
 </details>
@@ -205,10 +205,10 @@ Personas and JTBD both demand validation — qualitative (stories, feedback) and
 A great product doesn’t just work — ***it helps someone move forward*** with less friction, more clarity, and deeper trust.
 Our craft is not just engineering; ***it’s enabling progress.***
 
-***Practice***</br>
+***Practice***<br  />
 We build for people who are trying to make progress — not for ourselves.
 
-***Relation***</br>
+***Relation***<br  />
 We use Personas to stay human, and JTBD to stay purposeful.
 
 </details>

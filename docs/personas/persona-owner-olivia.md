@@ -8,15 +8,15 @@
 
 ## 👤 Persona Overview
 
-**Name:** Olivia</br>
-**Role:** Service Owner / Application Owner</br>
-**Location:** Distributed engineering teams (EMEA / NAMR)</br>
-**Experience:** 5–12 years in backend or full-stack engineering</br>
-**Reports to:** Engineering Manager or Product Engineering Lead</br>
-**Team:** Small agile product squad</br>
-**Background:** Strong engineering skills, but not a specialist in SRE or observability</br>
-**Work Environment:** Fast-paced product delivery, shared-service infrastructure, high operational accountability</br>
-**Traits:** Pragmatic, delivery-focused, curious, ownership-driven, values simplicity</br>
+**Name:** Olivia<br  />
+**Role:** Service Owner / Application Owner<br  />
+**Location:** Distributed engineering teams (EMEA / NAMR)<br  />
+**Experience:** 5–12 years in backend or full-stack engineering<br  />
+**Reports to:** Engineering Manager or Product Engineering Lead<br  />
+**Team:** Small agile product squad<br  />
+**Background:** Strong engineering skills, but not a specialist in SRE or observability<br  />
+**Work Environment:** Fast-paced product delivery, shared-service infrastructure, high operational accountability<br  />
+**Traits:** Pragmatic, delivery-focused, curious, ownership-driven, values simplicity<br  />
 
 ---
 

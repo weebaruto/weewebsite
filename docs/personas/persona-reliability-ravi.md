@@ -8,15 +8,15 @@
 
 ## 👤 Persona Overview
 
-**Name:** Ravi</br>
-**Role:** Site Reliability Engineer (SRE)</br>
-**Location:** Globally distributed reliability & platform teams</br>
-**Experience:** 5–15 years in reliability, infrastructure, or operations engineering</br>
-**Reports to:** SRE Manager / Engineering Director</br>
-**Team:** SRE, Production Operations, or Platform Engineering</br>
-**Background:** Deep systems knowledge, strong debugging & automation mindset</br>
-**Work Environment:** On-call operations, production systems, cloud platforms</br>
-**Traits:** Analytical, calm under pressure, systems thinker, automation‑driven</br>
+**Name:** Ravi<br  />
+**Role:** Site Reliability Engineer (SRE)<br  />
+**Location:** Globally distributed reliability & platform teams<br  />
+**Experience:** 5–15 years in reliability, infrastructure, or operations engineering<br  />
+**Reports to:** SRE Manager / Engineering Director<br  />
+**Team:** SRE, Production Operations, or Platform Engineering<br  />
+**Background:** Deep systems knowledge, strong debugging & automation mindset<br  />
+**Work Environment:** On-call operations, production systems, cloud platforms<br  />
+**Traits:** Analytical, calm under pressure, systems thinker, automation‑driven<br  />
 
 ---
 

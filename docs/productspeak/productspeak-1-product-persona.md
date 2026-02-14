@@ -113,44 +113,44 @@
 <details>
 <summary><strong>Product Persona - Working Example</strong></summary>
 
-![Owner Olivia](../personas/images/owner-olivia.png)</br>
-**Bio:** - Establish who this person is - their role, environment, and characteristics - to ground the persona in reality. </br>
+![Owner Olivia](../personas/images/owner-olivia.png)<br  />
+**Bio:** - Establish who this person is - their role, environment, and characteristics - to ground the persona in reality. <br  />
 
 >“If my service breaks, everything stops. I need fast, clear visibility — without becoming an observability expert.”
 
-Owner Olivia is a Service / Application Owner working in a fast-paced, distributed engineering organization. She owns the reliability and operational health of one or more customer-facing services. While she has strong engineering fundamentals, she is not a specialist in SRE or observability and values tools that are simple, standardized, and opinionated. </br>
+Owner Olivia is a Service / Application Owner working in a fast-paced, distributed engineering organization. She owns the reliability and operational health of one or more customer-facing services. While she has strong engineering fundamentals, she is not a specialist in SRE or observability and values tools that are simple, standardized, and opinionated. <br  />
 
-**Motivations:** Reveal why this person engages with your product or category — the underlying drivers behind their decisions. </br>
-- Deliver reliable, resilient services that meet customer expectations </br>
-- Reduce time spent firefighting incidents and debugging blind spots </br>
-- Gain actionable visibility into their service without heavy tooling overhead </br>
-- Operate with confidence during releases </br>
-- Remove toil via standardised, self-service observability </br></br>
+**Motivations:** Reveal why this person engages with your product or category — the underlying drivers behind their decisions. <br  />
+- Deliver reliable, resilient services that meet customer expectations <br  />
+- Reduce time spent firefighting incidents and debugging blind spots <br  />
+- Gain actionable visibility into their service without heavy tooling overhead <br  />
+- Operate with confidence during releases <br  />
+- Remove toil via standardised, self-service observability <br  /><br  />
 
-**Goals:** Define what this persona ultimately wants to achieve — measurable or observable outcomes. </br>
-- Instrument their service easily using OpenTelemetry (minimal learning curve) </br>
-- Detect issues before customers notice through unified telemetry </br>
-- Achieve fast root-cause analysis using correlated logs, metrics, and traces </br>
-- Maintain clear ownership boundaries and accountability </br>
-- Reduce MTTR and improve reliability posture </br></br>
+**Goals:** Define what this persona ultimately wants to achieve — measurable or observable outcomes. <br  />
+- Instrument their service easily using OpenTelemetry (minimal learning curve) <br  />
+- Detect issues before customers notice through unified telemetry <br  />
+- Achieve fast root-cause analysis using correlated logs, metrics, and traces <br  />
+- Maintain clear ownership boundaries and accountability <br  />
+- Reduce MTTR and improve reliability posture <br  /><br  />
 
-**Frustrations:** Identify what blocks or frustrates them — the barriers that prevent them from reaching their goals </br>
-- Disjointed dashboards and inconsistent instrumentation </br>
-- Missing or incomplete telemetry during incidents </br>
-- High learning curve for observability tools and vendors </br>
-- Noise-heavy alerts with limited actionability </br>
-- Manual toil: repeated config, copy-paste dashboards </br></br>
+**Frustrations:** Identify what blocks or frustrates them — the barriers that prevent them from reaching their goals <br  />
+- Disjointed dashboards and inconsistent instrumentation <br  />
+- Missing or incomplete telemetry during incidents <br  />
+- High learning curve for observability tools and vendors <br  />
+- Noise-heavy alerts with limited actionability <br  />
+- Manual toil: repeated config, copy-paste dashboards <br  /><br  />
 
-**Success:** Clarify how this persona measures success — signals they care about. </br>
-- Reduction in Mean Time to Detect (MTTD) and Mean Time to Resolve (MTTR) </br>
-- % of services fully instrumented with OTel (auto + manual) </br>
-- Error budget adherence and reliability trending up </br>
-- Incident frequency trending downward </br>
-- Faster incident reviews with clear dashboards and traceability </br>
+**Success:** Clarify how this persona measures success — signals they care about. <br  />
+- Reduction in Mean Time to Detect (MTTD) and Mean Time to Resolve (MTTR) <br  />
+- % of services fully instrumented with OTel (auto + manual) <br  />
+- Error budget adherence and reliability trending up <br  />
+- Incident frequency trending downward <br  />
+- Faster incident reviews with clear dashboards and traceability <br  />
 
->**Bio:** - Establish who this person is - their role, environment, and characteristics - to ground the persona in reality. </br>
-**Motivations:** Reveal why this person engages with your product or category - the underlying drivers behind their decisions. </br>
-**Goals:** Define what this persona ultimately wants to achieve - measurable or observable outcomes. </br>
-**Frustrations:** Identify what blocks or frustrates them - the barriers that prevent them from reaching their goals</br>
-**Success:** Clarify how this persona measures success - signals they care about.</br>
+>**Bio:** - Establish who this person is - their role, environment, and characteristics - to ground the persona in reality. <br  />
+**Motivations:** Reveal why this person engages with your product or category - the underlying drivers behind their decisions. <br  />
+**Goals:** Define what this persona ultimately wants to achieve - measurable or observable outcomes. <br  />
+**Frustrations:** Identify what blocks or frustrates them - the barriers that prevent them from reaching their goals<br  />
+**Success:** Clarify how this persona measures success - signals they care about.<br  />
 </details>

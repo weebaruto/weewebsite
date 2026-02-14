@@ -100,28 +100,28 @@ When Olivia struggles, **MTTR increases, incident stress rises, and customer imp
 Below are example JTBD commonly associated with Owner Olivia:
 
 1. **Instrument My Service Reliably**
-   > When setting up telemetry for my service,  
-   > I want to instrument logs, metrics, and traces with minimal effort and complexity,  
+   > When setting up telemetry for my service,
+   > I want to instrument logs, metrics, and traces with minimal effort and complexity,
    > so I can ensure consistent visibility without becoming an observability expert.
 
 2. **Detect and Diagnose Issues Quickly**
-   > When my service begins to degrade or fail,  
-   > I want to understand what’s happening and why using correlated signals,  
+   > When my service begins to degrade or fail,
+   > I want to understand what’s happening and why using correlated signals,
    > so I can restore service health quickly and reduce customer impact.
 
 3. **Operate Against Clear SLOs**
-   > When monitoring my service day to day,  
-   > I want to track meaningful SLOs and error budgets,  
+   > When monitoring my service day to day,
+   > I want to track meaningful SLOs and error budgets,
    > so I can prioritise reliability work and make informed release decisions.
 
 4. **Reduce Operational Toil**
-   > When managing observability workflows (alerts, dashboards, instrumentation),  
-   > I want to avoid repetitive manual setup,  
+   > When managing observability workflows (alerts, dashboards, instrumentation),
+   > I want to avoid repetitive manual setup,
    > so I can focus more time on product delivery and less on operational overhead.
 
 5. **Understand Dependencies and Impact**
-   > When investigating issues in a distributed system,  
-   > I want to see how my service interacts with others,  
+   > When investigating issues in a distributed system,
+   > I want to see how my service interacts with others,
    > so I can identify upstream/downstream causes and collaborate effectively during incidents.
 
 </details>
@@ -229,7 +229,7 @@ These jobs are:
 These jobs are:
 - Real jobs, but less urgent than incident response and core visibility *right now*
 
-</br>
+<br  />
 
 >**Next Step** - For each **Now** JTBD we execute our [discovery and learning loops](productspeak-4-product-discovery.md)
 

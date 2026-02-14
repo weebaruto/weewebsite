@@ -38,7 +38,7 @@ The goal is not completeness. The goal is clarity with minimal ceremony.
 **Purpose:** Anchor conversations on outcomes without requiring full JTBD rigor.
 
 **Required format (one sentence):**
-> When <situation>, I want to <make progress>, so I can <outcome>.
+> When `situation`, I want to `make progress`, so I can `outcome`.
 
 **Optional (only if useful):**
 - Why now

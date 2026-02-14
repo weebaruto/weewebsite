@@ -8,15 +8,15 @@
 
 ## 👤 Persona Overview
 
-**Name:** Bella</br>
-**Role:** Software Engineer / Developer</br>
-**Location:** Global distributed teams (EMEA / NAMR)</br>
-**Experience:** 2–8 years in backend, frontend, or full-stack engineering</br>
-**Reports to:** Engineering Manager</br>
-**Team:** Agile product squad</br>
-**Background:** Strong coding skills, moderate experience with distributed systems</br>
-**Work Environment:** Fast delivery cycles, CI/CD pipelines, shared microservices architectures</br>
-**Traits:** Curious, practical, detail-oriented, efficiency-driven</br>
+**Name:** Bella<br  />
+**Role:** Software Engineer / Developer<br  />
+**Location:** Global distributed teams (EMEA / NAMR)<br  />
+**Experience:** 2–8 years in backend, frontend, or full-stack engineering<br />
+**Reports to:** Engineering Manager<br />
+**Team:** Agile product squad<br  />
+**Background:** Strong coding skills, moderate experience with distributed systems<br  />
+**Work Environment:** Fast delivery cycles, CI/CD pipelines, shared microservices architectures<br  />
+**Traits:** Curious, practical, detail-oriented, efficiency-driven<br  />
 
 ---
 
