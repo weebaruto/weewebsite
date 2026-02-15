@@ -1,25 +1,10 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
+bobby:
+  name: Bobby Mawhinney
+  title: 相撲バカ・Vinyl Lover・お神輿担ぎ手・Country Boy ・猫舌 ・ Groove Tube Owner ・ しょうがない!
+  url: https://github.com/weebaruto
+  image_url: https://github.com/weebaruto.png
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    github: weebaruto
+    linkedin: bobby-mawhinney-31a9b018
+    Instagram: bobby.mawhinney
+    email: bobby.mawhinney@gmail.com
