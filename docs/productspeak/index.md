@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Product Speak
 ***TL;DR*** - A series of educational and awareness sessions highlighting the concepts and practices for “putting product at the center of operations” i.e. a [Product Operating Model](../../readme.md) (POM).
 

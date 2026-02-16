@@ -1,4 +1,7 @@
-# Jobs-To-Be-Done – [Owner Olivia](../../personas/persona-owner-olivia.md)
+---
+sidebar_position: 1
+---
+# Owner Oliva - JTBD Statements
 
 ## Master JTBD Statement
 ***When*** owning and operating a customer-facing service in production,***I want to*** have clear, unified, and trustworthy observability into how my service behaves,***so I can*** detect issues early, resolve incidents quickly, and confidently deliver a reliable user experience.

@@ -1,4 +1,4 @@
-# Product Persona – “Builder Bella”
+# Persona - Builder Bella
 
 ![Persona Image Placeholder](./images/builder-bella.png)
 

@@ -1,4 +1,8 @@
-# Product Persona – "Owner Olivia"
+---
+sidebar_position: 1
+---
+
+# Persona - Owner Olivia
 
 ![Persona Image Placeholder](./images/owner-olivia.png)
 

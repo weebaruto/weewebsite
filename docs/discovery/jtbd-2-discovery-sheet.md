@@ -1,4 +1,4 @@
-# [Owner Olivia](../../personas/persona-owner-olivia.md) – Discovery Sheet
+# Owner Olivia – Discovery Sheet
 
 ## Related Jobs-To-Be-Done
 

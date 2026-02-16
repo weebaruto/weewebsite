@@ -1,4 +1,7 @@
-# Jobs-To-Be-Done – [Builder Bella](../../personas/persona-builder-bella.md)
+---
+sidebar_position: 3
+---
+# Builder Bella - JTBD Statements
 
 ## Master JTBD Statement
 ***When*** building or updating features in a distributed system,\

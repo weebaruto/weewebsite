@@ -1,4 +1,4 @@
-# Product Persona – “Reliability Ravi”
+# Persona - Reliability Ravi
 
 ![Persona Image Placeholder](./images/reliability-ravi.png)
 

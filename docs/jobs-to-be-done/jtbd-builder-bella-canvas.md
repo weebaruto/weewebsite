@@ -1,4 +1,8 @@
-# JTBD Canvas — [Builder Bella](../../personas/persona-builder-bella.md)
+---
+sidebar_position: 4
+---
+
+# Builder Bella - JTBD Canvas
 
 | **Component** | **Description** |
 |--------------|-----------------|

@@ -1,4 +1,4 @@
-# JTBD Canvas — [Reliability Ravi](../../personas/persona-reliability-ravi.md)
+# Reliability Ravi - JTBD Canvas
 
 | **Component** | **Description** |
 |--------------|-----------------|

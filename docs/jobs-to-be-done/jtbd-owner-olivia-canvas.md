@@ -1,4 +1,7 @@
-# JTBD Canvas — [Owner Olivia](../../personas/persona-owner-olivia.md)
+---
+sidebar_position: 2
+---
+# Owner Olivia - JTBD Canvas
 
 | **Component** | **Description** |
 |--------------|-----------------|

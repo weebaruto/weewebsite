@@ -1,4 +1,7 @@
-# Jobs-To-Be-Done – [Reliability Ravi](../../personas/persona-reliability-ravi.md)
+---
+sidebar_position: 5
+---
+# Reliability Ravi - JTBD Statements
 
 ## Master JTBD Statement
 ***When*** ensuring reliability across distributed, production systems,\
