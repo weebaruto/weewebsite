@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 # Example Persona
 ***TL;DR*** - Example Product Persona artifacts (and a template to follow) based on the introduction of a Foundational Observability Platform powered by OpenTelemetry.

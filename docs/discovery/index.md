@@ -1,4 +1,7 @@
-# Discovery Cycle
+---
+sidebar_position: 6
+---
+# Example Discovery
 ***TL;DR*** - Example [Discovery Cycle](../productspeak/productspeak-4-product-discovery.md) artifacts (and templates to follow) based on the introduction of a fictional digit assets management platform.
 
 **Purpose**\

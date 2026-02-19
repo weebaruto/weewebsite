@@ -1,4 +1,7 @@
-# Issues
+---
+sidebar_position: 7
+---
+# Example Issue Forms
 ***TL;DR*** - Example Discovery and Feature Issues based on the introduction of a fictional digit assets management platform.
 
 **Purpose**\

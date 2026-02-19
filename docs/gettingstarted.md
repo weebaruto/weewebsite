@@ -1,4 +1,7 @@
-# Product Operating Model - HowTo
+---
+sidebar_position: 2
+---
+# Getting Started
 **Our Ethos**\
 A great product doesn’t just work, ***it helps someone move forward***, with less friction, more clarity, and deeper trust. Our craft is not just engineering; ***it’s enabling progress.***
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
 # Example Jobs-To-Be-Done
 ***TL;DR*** - Example [Jobs-To-Be-Done](../productspeak/productspeak-2-jobs-to-be-done.md) artifacts (and templates to follow) based on the introduction of a Foundational Observability Platform powered by OpenTelemetry.

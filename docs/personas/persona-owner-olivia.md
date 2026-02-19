@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Persona - Owner Olivia
+# Owner Olivia - Persona
 
 ![Persona Image Placeholder](./images/owner-olivia.png)
 

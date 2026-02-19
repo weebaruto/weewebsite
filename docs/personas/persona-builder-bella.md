@@ -1,4 +1,4 @@
-# Persona - Builder Bella
+# Builder Bella - Persona
 
 ![Persona Image Placeholder](./images/builder-bella.png)
 

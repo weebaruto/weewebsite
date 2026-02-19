@@ -1,4 +1,4 @@
-# Persona - Reliability Ravi
+# Reliability Ravi - Persona
 
 ![Persona Image Placeholder](./images/reliability-ravi.png)
 

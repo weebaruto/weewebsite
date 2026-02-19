@@ -95,7 +95,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Product Speak',
+            label: 'Product Playbook',
           },
           {to: '/blog', label: '90-in-90', position: 'left'},
           {

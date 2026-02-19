@@ -4,11 +4,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Product Speak',
+    title: 'Product Playbook',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Educational series highlighting the concepts and practices for “putting product at the center”.
+        Highlighting the concepts and practices for “putting product at the center” of your delivery cycle.
       </>
     ),
   },
