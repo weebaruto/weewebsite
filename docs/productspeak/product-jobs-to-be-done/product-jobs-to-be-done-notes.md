@@ -1,4 +1,4 @@
-# Product Speak #2 – Jobs To Be Done Notes (Owner Olivia)
+# Jobs To Be Done Notes
 
 <details>
 <summary><strong>Jobs-To-Be-Done - What</strong></summary>
@@ -37,24 +37,24 @@ You succeed when your offering helps them make progress better than alternatives
 <details>
 <summary><strong>Jobs-To-Be-Done - How</strong></summary>
 
-1️⃣ **Understand the Persona**  
+1️⃣ **Understand the Persona**
 Understand the environment, pressures, and motivations that shape behavior.
 - What progress they are trying to make
 - The circumstances around struggle and decision-making
 - Forces that enable or block progress
 
-2️⃣ **Identify Core & Related Jobs**  
+2️⃣ **Identify Core & Related Jobs**
 Focus on real progress, not tasks.
 - **Core Job** — the primary reason a solution is hired
 - **Functional Supplementary Jobs** — supporting tasks
 - **Emotional Supplementary Jobs** — how they want to feel
 - **Social Supplementary Jobs** — how they want to be perceived
 
-3️⃣ **Define Core JTBD Statement**  
+3️⃣ **Define Core JTBD Statement**
 Use a consistent, testable format:
 - When [situation], I want to [motivation], so I can [desired outcome]
 
-4️⃣ **Map the Job Journey**  
+4️⃣ **Map the Job Journey**
 Understand progress from start to finish:
 - Trigger / Struggle
 - Investigation / Consideration
@@ -62,12 +62,12 @@ Understand progress from start to finish:
 - Evaluation
 - Change / Improvement
 
-5️⃣ **Identify Desired Outcomes & Metrics**  
+5️⃣ **Identify Desired Outcomes & Metrics**
 - Define what success looks like from the user’s perspective
 - Quantify where possible (e.g., MTTR, alert quality)
 - Rank outcomes by importance vs satisfaction
 
-6️⃣ **Identify Drivers & Constraints**  
+6️⃣ **Identify Drivers & Constraints**
 Drivers:
 - Customer impact
 - On-call pressure
@@ -78,11 +78,11 @@ Constraints:
 - Legacy systems
 - Cognitive load under stress
 
-7️⃣ **Translate into Product Opportunities**  
+7️⃣ **Translate into Product Opportunities**
 - Turn JTBD insight into product bets
 - Prioritize outcomes over features
 
-8️⃣ **Create Jobs-To-Be-Done Canvas**  
+8️⃣ **Create Jobs-To-Be-Done Canvas**
 Capture shared understanding:
 - Job Statement
 - Functional / Emotional / Social Jobs
@@ -91,7 +91,7 @@ Capture shared understanding:
 - Drivers & Constraints
 - Opportunities
 
-9️⃣ **Validate and Iterate**  
+9️⃣ **Validate and Iterate**
 - Observe real workflows (e.g., incidents)
 - Measure improvement in outcomes
 - Re-interview: “What changed about how you operate?”
@@ -155,8 +155,8 @@ Capture shared understanding:
 
 3️⃣ **Define Core JTBD Statement**
 
-When my service degrades or behaves unexpectedly in production,  
-I want to quickly understand what’s happening and why,  
+When my service degrades or behaves unexpectedly in production,
+I want to quickly understand what’s happening and why,
 so I can restore reliability with confidence and minimize customer impact.
 
 ---

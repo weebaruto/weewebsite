@@ -1,5 +1,5 @@
 
-# "Product Speak" #1 - Product Persona
+# Product Persona
 <details>
 <summary><strong>Product Speak - Introduction</strong></summary>
 
@@ -113,7 +113,7 @@
 <details>
 <summary><strong>Product Persona - Working Example</strong></summary>
 
-![Owner Olivia](../personas/images/owner-olivia.png)<br  />
+![Owner Olivia](../../personas/images/owner-olivia.png)<br  />
 **Bio:** - Establish who this person is - their role, environment, and characteristics - to ground the persona in reality. <br  />
 
 >“If my service breaks, everything stops. I need fast, clear visibility — without becoming an observability expert.”

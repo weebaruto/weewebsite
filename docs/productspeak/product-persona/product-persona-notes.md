@@ -1,4 +1,4 @@
-# Product Speak #1 – Product Persona Notes
+# Product Persona Notes
 
 <details>
 <summary><strong>Product Persona – What</strong></summary>
@@ -95,7 +95,7 @@ Personas help you tell the “story” of your product through relatable scenari
 <details>
 <summary><strong>Product Persona – Example: “Owner Oliva”</strong></summary>
 
-![Persona Image Placeholder](../personas/images/owner-olivia.png)
+![Persona Image Placeholder](../../personas/images/owner-olivia.png)
 
 > “If my service breaks, everything stops. I need fast, clear visibility — without becoming an observability expert.”
 

@@ -1,4 +1,4 @@
-# Product Speak #2 — Jobs-To-Be-Done
+# Jobs-To-Be-Done
 
 16th October 2025
 
@@ -142,8 +142,8 @@ they “hire” (and “fire”) solutions to do a “job” in their lives.
 <details>
 <summary><strong>Jobs-To-Be-Done – #3 Define Core JTBD Statement</strong></summary>
 
-***When*** my service degrades or behaves unexpectedly in production,  
-***I want to*** quickly understand what’s happening and why,  
+***When*** my service degrades or behaves unexpectedly in production,
+***I want to*** quickly understand what’s happening and why,
 ***so I can*** restore service health with confidence and minimize customer impact.
 
 This captures:
