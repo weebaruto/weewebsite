@@ -2,21 +2,18 @@
 
 ## Related Jobs-To-Be-Done
 
-**JTBD‑2 — Detect and Diagnose Issues Quickly**
-***When*** my service begins to degrade or fail
-***I want to*** understand what’s happening and why using correlated signals
-***so I can*** restore service health quickly and reduce customer impact.
+>**JTBD‑2 — Detect and Diagnose Issues Quickly**<br />
+***When*** my service begins to degrade or fail<br />
+***I want to*** understand what’s happening and why using correlated signals<br />
+***so I can*** restore service health quickly and reduce customer impact.<br />
 
----
-
-## 1. Hypothesis Statement
+### 1. Hypothesis Statement
 We believe that **Owner Olivia** needs **a single, correlated view of logs, metrics, and traces during incidents**,
 so that **she can diagnose issues quickly without jumping between tools or guessing root cause**.
 We’ll know this is true when **she consistently uses the correlated incident view during triage and resolves issues faster than with her current workflow**.
 
----
 
-## 2. Top 3 Riskiest Assumptions
+### 2. Top 3 Riskiest Assumptions
 
 | Assumption | Type | Risk Reason |
 |-----------|------|-------------|
@@ -24,9 +21,8 @@ We’ll know this is true when **she consistently uses the correlated incident v
 | We can reliably stitch logs, metrics, and traces together in real time | Feasibility | Requires strong data quality and OTel consistency |
 | Incident signals can be distilled into a clear, low‑noise experience | Usability | Too much data or noise will overwhelm users |
 
----
 
-## 3. Lean Experiment (Single Test)
+### 3. Lean Experiment (Single Test)
 
 **Experiment Type:** High‑touch usability test using a manually prepared “correlated incident snapshot” during active or simulated incidents.
 
@@ -55,9 +51,7 @@ We’ll know this is true when **she consistently uses the correlated incident v
 - Snapshot is perceived as unclear or incomplete
 - She distrusts the correlations or signals
 
----
-
-## 4. Evidence Summary
+### 4. Evidence Summary
 
 **Observed Feedback (simulated expected):**
 “This is exactly what I need during an incident. It saves me from clicking through five tools just to figure out what happened.”
@@ -71,9 +65,7 @@ The real need is a **Correlated Incident View**—a guided, consolidated snapsho
 **Reframed JTBD:**
 “Help me understand what’s happening during an incident without searching through multiple tools.”
 
----
-
-## 5. Decision
+### 5. Decision
 
 **Outcome:** Hypothesis **validated enough** to proceed.**
 

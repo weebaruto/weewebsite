@@ -1,4 +1,4 @@
-# Product Persona Notes
+# Additional Notes
 
 <details>
 <summary><strong>Product Persona – What</strong></summary>
@@ -10,8 +10,6 @@
 - The concept was popularized by Alan Cooper (in the early 80’s).
 
 </details>
-
----
 
 <details>
 <summary><strong>Product Persona – Why</strong></summary>
@@ -36,8 +34,6 @@ Without personas, stakeholders may each imagine different users (or design for t
 Personas help you tell the “story” of your product through relatable scenarios.
 
 </details>
-
----
 
 <details>
 <summary><strong>Product Persona – How</strong></summary>
@@ -73,8 +69,6 @@ Personas help you tell the “story” of your product through relatable scenari
 
 </details>
 
----
-
 <details>
 <summary><strong>Product Persona – Dos & Don’ts</strong></summary>
 
@@ -90,16 +84,12 @@ Personas help you tell the “story” of your product through relatable scenari
 
 </details>
 
----
-
 <details>
 <summary><strong>Product Persona – Example: “Owner Oliva”</strong></summary>
 
 ![Persona Image Placeholder](../../personas/images/owner-olivia.png)
 
 > “If my service breaks, everything stops. I need fast, clear visibility — without becoming an observability expert.”
-
----
 
 ## 👤 Persona Overview
 
@@ -164,8 +154,6 @@ Personas help you tell the “story” of your product through relatable scenari
 > **Summary:**
 > Olivia represents the end-to-end owner of a customer-facing service who needs clarity, simplicity, and reliability. A Foundational Observability Platform powered by OpenTelemetry empowers Sam to instrument services quickly, detect issues proactively, troubleshoot efficiently, and operate with confidence — without requiring deep SRE or observability expertise.
 </details>
-
----
 
 <details>
 <summary><strong>Product Persona – Instructional Template</strong></summary>

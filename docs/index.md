@@ -5,16 +5,15 @@ sidebar_position: 1
 import DocCardList from '@theme/DocCardList';
 
 # Product Operating Playbook
-**Our Ethos**\
+### Our Ethos
 A great product doesn’t just work, ***it helps someone move forward***, with less friction, more clarity, and deeper trust. Our craft is not just engineering; ***it’s enabling progress.***
 
-**Our Practice**\
+### Our Practice
 We build for people who are trying to make progress, not for ourselves. We use Personas to stay human, and Jobs-To-Be-Done (JTBD) to stay purposeful.
 
-**The Content**\
+### The Content
 A lite-weight product operating model that explains how product decisions are made using personas and Jobs-to-Be-Done so engineering always knows the why behind the work.
 
-What You’ll Find Here:
 <DocCardList items={[
     {
         type: 'link',

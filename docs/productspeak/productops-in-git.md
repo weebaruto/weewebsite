@@ -1,4 +1,8 @@
-# Product Speak #6 — ProductOps in Git
+---
+sidebar_position: 6
+---
+
+# ProductOps in Git
 
 <details>
 <summary><strong>“Product Speak” — A Learning Path</strong></summary>
@@ -9,10 +13,10 @@
 4. Product Discovery — Validating hypothesis
 5. Product Rhythm — Sustaining learning loop
 6. ***ProductOps in Git — Build around customers***
+7. The 3-Factor Score - Prioritization "What matters?
+8. Playbook Extreme - The bare minimum
 
 </details>
-
----
 
 <details>
 <summary><strong>Today’s Agenda</strong></summary>
@@ -21,8 +25,6 @@
 - How - The Operating Model
 
 </details>
-
----
 
 <details>
 <summary><strong>What — The Playbook Repository</strong></summary>
@@ -40,8 +42,6 @@ What You’ll Find Here:
 >\.github\\[ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE/) - Discovery and Feature Custom Form Templates
 
 </details>
-
----
 
 <details>
 <summary><strong>How — The Operating Model</strong></summary>
@@ -63,8 +63,6 @@ Leveraging custom form templates for [Discovery](.github/ISSUE_TEMPLATE/discover
 
 
 </details>
-
----
 
 <details>
 <summary><strong>How — The Operating Model</strong></summary>

@@ -3,70 +3,56 @@ sidebar_position: 3
 ---
 # Builder Bella - JTBD Statements
 
-## Master JTBD Statement
-***When*** building or updating features in a distributed system,\
-***I want to*** instrument my code easily and confirm that telemetry is complete and accurate,\
+### Master JTBD Statement
+>***When*** building or updating features in a distributed system,<br />
+***I want to*** instrument my code easily and confirm that telemetry is complete and accurate,<br />
 ***so I can*** debug issues quickly and deliver reliable features to production.
 
----
-
-## JTBD-1: Instrument Code with Minimal Effort
-***When*** adding or updating code paths,\
-***I want to*** apply standard logging, metrics, and tracing patterns quickly,\
+### JTBD-1: Instrument Code with Minimal Effort
+>***When*** adding or updating code paths,<br />
+***I want to*** apply standard logging, metrics, and tracing patterns quickly,<br />
 ***so I can*** maintain observability without spending hours learning tooling.
 
----
-
-## JTBD-2: Understand How My Code Behaves in Production
-***When*** a feature is deployed or a bug is reported,\
-***I want to*** see how my code performs and where it fails,\
+### JTBD-2: Understand How My Code Behaves in Production
+>***When*** a feature is deployed or a bug is reported,<br />
+***I want to*** see how my code performs and where it fails,<br />
 ***so I can*** diagnose issues efficiently and prevent customer impact.
 
----
-
-## JTBD-3: Validate That Telemetry Is Flowing
-***When*** I push new code or refactor instrumentation,\
-***I want to*** verify that logs, metrics, and traces are emitted correctly,\
+### JTBD-3: Validate That Telemetry Is Flowing
+>***When*** I push new code or refactor instrumentation,<br />
+***I want to*** verify that logs, metrics, and traces are emitted correctly,<br />
 ***so I can*** avoid silent failures and incomplete data during incidents.
 
----
-
-## JTBD-4: Debug Issues Faster
-***When*** investigating performance or functional defects,\
-***I want to*** use clear, correlated signals to pinpoint root cause,\
+### JTBD-4: Debug Issues Faster
+>***When*** investigating performance or functional defects,<br />
+***I want to*** use clear, correlated signals to pinpoint root cause,<br />
 ***so I can*** resolve issues quickly and avoid relying on SREs.
 
----
-
-## JTBD-5: Use Consistent, Repeatable Patterns
-***When*** joining new services or collaborating across teams,\
-***I want to*** leverage templates, examples, and conventions,\
+### JTBD-5: Use Consistent, Repeatable Patterns
+>***When*** joining new services or collaborating across teams,<br />
+***I want to*** leverage templates, examples, and conventions,<br />
 ***so I can*** reduce cognitive load and achieve consistent outcomes.
 
----
-
-## Emotional Jobs
+### Emotional Jobs
 
 ### EJ-1: Confidence in Code Quality
-***When*** shipping new features,\
-***I want to*** feel confident I’m not introducing hidden reliability risks,\
+>***When*** shipping new features,<br />
+***I want to*** feel confident I’m not introducing hidden reliability risks,<br />
 ***so I can*** deliver at speed without anxiety.
 
 ### EJ-2: Reduce Debugging Frustration
-***When*** dealing with production issues,\
-***I want to*** avoid noisy, scattered tools and missing data,\
+>***When*** dealing with production issues,<br />
+***I want to*** avoid noisy, scattered tools and missing data,<br />
 ***so I can*** stay focused, efficient, and calm.
 
----
-
-## Social Jobs
+### Social Jobs
 
 ### SJ-1: Demonstrate Engineering Excellence
-***When*** working with peers and leads,\
-***I want to*** show that my code is well-instrumented and observable,\
+>***When*** working with peers and leads,<br />
+***I want to*** show that my code is well-instrumented and observable,<br />
 ***so I can*** build trust and credibility.
 
 ### SJ-2: Collaborate Smoothly with SRE & Service Owners
-***When*** incidents occur or changes are released,\
-***I want to*** provide clear telemetry others can rely on,\
+>***When*** incidents occur or changes are released,<br />
+***I want to*** provide clear telemetry others can rely on,<br />
 ***so I can*** help the team troubleshoot effectively.

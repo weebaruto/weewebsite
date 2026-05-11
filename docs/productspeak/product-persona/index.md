@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 
 # Product Persona
 <details>
@@ -12,8 +15,6 @@
 
 </details>
 
----
-
 <details>
 <summary><strong>“Product Speak” - A Learning Path</strong></summary>
 
@@ -23,10 +24,10 @@
 4. Product Discovery - Validating hypothesis
 5. Product Rhythm - Sustaining learning loop
 6. ProductOps in Git - Build around customers
+7. The 3-Factor Score - Prioritization "What matters?
+8. Playbook Extreme - The bare minimum
 
 </details>
-
----
 
 <details>
 <summary><strong>Content</strong></summary>
@@ -39,8 +40,6 @@
 
 </details>
 
----
-
 <details>
 <summary><strong>Product Persona - What</strong></summary>
 
@@ -51,8 +50,6 @@
 - The concept was popularized by ***Alan Cooper***.
 
 </details>
-
----
 
 <details>
 <summary><strong>Product Persona - Why</strong></summary>
@@ -65,8 +62,6 @@
 - Communication & Storytelling - Help you tell a “story”of your product
 
 </details>
-
----
 
 <details>
 <summary><strong>Product Persona - How</strong></summary>
@@ -93,8 +88,6 @@
 
 </details>
 
----
-
 <details>
 <summary><strong>Product Persona - Dos & Don’ts</strong></summary>
 
@@ -106,9 +99,6 @@
 - Don’t let personas become “shelfware”, revisit for change
 
 </details>
-
----
-
 
 <details>
 <summary><strong>Product Persona - Working Example</strong></summary>

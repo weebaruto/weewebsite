@@ -1,22 +1,22 @@
-# Jobs-To-Be-Done
-
-16th October 2025
-
 ---
+sidebar_position: 2
+---
+
+# Jobs-To-Be-Done
 
 <details>
 <summary><strong>“Product Speak” – A Learning Path</strong></summary>
 
-- Product Personas – Understanding people
-- ***Jobs-To-Be-Done – Understanding progress***
-- Product Manifesto – Shared product ethos
-- Product Discovery – Validating hypothesis
-- Product Rhythm – Sustaining learning loop
-- ProductOps in Git – Build around customers
+1. Product Personas – Understanding people
+2. ***Jobs-To-Be-Done – Understanding progress***
+3. Product Manifesto – Shared product ethos
+4. Product Discovery – Validating hypothesis
+5. Product Rhythm – Sustaining learning loop
+6. ProductOps in Git – Build around customers
+7. The 3-Factor Score - Prioritization "What matters?
+8. Playbook Extreme - The bare minimum
 
 </details>
-
----
 
 <details>
 <summary><strong>Today’s Agenda</strong></summary>
@@ -26,10 +26,7 @@
 - How
 - Dos & Don’ts
 - Working Example (Owner Olivia)
-
 </details>
-
----
 
 <details>
 <summary><strong>Jobs-To-Be-Done – What</strong></summary>
@@ -48,8 +45,6 @@ they “hire” (and “fire”) solutions to do a “job” in their lives.
 
 </details>
 
----
-
 <details>
 <summary><strong>Jobs-To-Be-Done – Why</strong></summary>
 
@@ -61,8 +56,6 @@ they “hire” (and “fire”) solutions to do a “job” in their lives.
 - Jobs are stable over time; tools and technologies change
 
 </details>
-
----
 
 <details>
 <summary><strong>Jobs-To-Be-Done – How</strong></summary>
@@ -79,8 +72,6 @@ they “hire” (and “fire”) solutions to do a “job” in their lives.
 
 </details>
 
----
-
 <details>
 <summary><strong>Jobs-To-Be-Done – Dos & Don’ts</strong></summary>
 
@@ -92,8 +83,6 @@ they “hire” (and “fire”) solutions to do a “job” in their lives.
 - Don’t overcomplicate it — keep it testable
 
 </details>
-
----
 
 <details>
 <summary><strong>Jobs-To-Be-Done – #1 Understand the Persona</strong></summary>
@@ -113,8 +102,6 @@ they “hire” (and “fire”) solutions to do a “job” in their lives.
 - Values clarity, speed, and trust in tooling
 
 </details>
-
----
 
 <details>
 <summary><strong>Jobs-To-Be-Done – #2 Identify Core & Related Jobs</strong></summary>
@@ -137,8 +124,6 @@ they “hire” (and “fire”) solutions to do a “job” in their lives.
 
 </details>
 
----
-
 <details>
 <summary><strong>Jobs-To-Be-Done – #3 Define Core JTBD Statement</strong></summary>
 
@@ -153,8 +138,6 @@ This captures:
 
 </details>
 
----
-
 <details>
 <summary><strong>Jobs-To-Be-Done – #4 Map The Job Journey</strong></summary>
 
@@ -168,8 +151,6 @@ This captures:
 
 </details>
 
----
-
 <details>
 <summary><strong>Jobs-To-Be-Done – #5 Identify Desired Outcomes & Metrics</strong></summary>
 
@@ -181,8 +162,6 @@ This captures:
 | Collaboration | Better incident coordination | Time to engage right team |
 
 </details>
-
----
 
 <details>
 <summary><strong>Jobs-To-Be-Done – #6 Identify Job Drivers & Constraints</strong></summary>
@@ -201,8 +180,6 @@ This captures:
 
 </details>
 
----
-
 <details>
 <summary><strong>Jobs-To-Be-Done – #7 Translate Into Opportunities</strong></summary>
 
@@ -214,8 +191,6 @@ This captures:
 | Alert fatigue | Smarter alerting |
 
 </details>
-
----
 
 <details>
 <summary><strong>Jobs-To-Be-Done – #8 Create JTBD Canvas</strong></summary>
@@ -232,8 +207,6 @@ This captures:
 
 </details>
 
----
-
 <details>
 <summary><strong>Jobs-To-Be-Done – #9 Validate & Iterate</strong></summary>
 
@@ -242,8 +215,6 @@ This captures:
 - Re-interview: “What changed about how you handle incidents?”
 
 </details>
-
----
 
 <details>
 <summary><strong>Jobs-To-Be-Done – Final Takeaway</strong></summary>

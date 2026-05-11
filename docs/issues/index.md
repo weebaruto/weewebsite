@@ -1,12 +1,29 @@
 ---
 sidebar_position: 7
 ---
-# Example Issue Forms
-***TL;DR*** - Example Discovery and Feature Issues based on the introduction of a fictional digit assets management platform.
 
-**Purpose**\
-Introduction to a workflow levering [Discovery](../../.github/ISSUE_TEMPLATE/discovery.yml) & [Feature](../../.github/ISSUE_TEMPLATE/feature.yml) Issues to provide us with traceability and reporting across Product Personas, Jobs-To-Be-Done, Discovery Decisions and Feature Deliveries;
+import DocCardList from '@theme/DocCardList';
 
-What You’ll Find Here:
-- [Example Discovery Kick-off Issue](./discovery.md)
-- [Example Feature Delivery Raised From Discovery](./feature.md)
+# Example Git Issues
+
+>Example Discovery and Feature Issues based on the introduction of a Foundational Observability Platform powered by OpenTelemetry.
+
+### Purpose
+Introduction to a workflow levering Git Issues to provide us with traceability and reporting across Product Personas, Jobs-To-Be-Done, Discovery Decisions and Feature Deliveries.
+
+
+
+<DocCardList items={[
+    {
+        type: 'link',
+        href: 'discovery',
+        label: 'Discovery',
+        description: 'Example Discovery Kick-off Issue'
+    },
+        {
+        type: 'link',
+        href: 'feature',
+        label: 'Feature',
+        description: 'Example Feature Delivery Raised From Discovery'
+    },
+]}/>

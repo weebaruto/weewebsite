@@ -1,8 +1,8 @@
-# Product Speak #7 — A 3-factor Jobs-To-Be-Done Score
-December 2025
-
+---
+sidebar_position: 7
 ---
 
+# The 3-factor Score
 <details>
 <summary><strong>“Product Speak” — A Learning Path</strong></summary>
 
@@ -13,10 +13,9 @@ December 2025
 5. Product Rhythm — Sustaining learning loop
 6. ProductOps in Git — Build around customers
 7. ***The 3-Factor Score - Prioritization "What matters?***
+8. Playbook Extreme - The bare minimum
 
 </details>
-
----
 
 <details>
 <summary><strong>Today’s Agenda</strong></summary>
@@ -27,8 +26,6 @@ December 2025
 - The How with "Owner Olivia"
 - The Key Takeaways
 </details>
-
----
 
 <details>
 <summary><strong>The Session Goal</strong></summary>
@@ -41,8 +38,6 @@ Help an engineering team **decide what to work on next** using Jobs-To-Be-Done:
 
 </details>
 
----
-
 <details>
 <summary><strong>The Struggle</strong></summary>
 
@@ -53,8 +48,6 @@ Teams often struggle with prioritization because:
 - Jobs, problems, and solutions get mixed together
 
 </details>
-
----
 
 <details>
 <summary><strong>What Are We Prioritizing?</strong></summary>
@@ -70,8 +63,6 @@ We prioritize **Primary Jobs To Be Done**.
 > A Primary JTBD is the core job a persona is trying to accomplish — not the steps, tools, or edge cases.
 
 </details>
-
----
 
 <details>
 <summary><strong>The How - Persona Reminder</strong></summary>
@@ -91,8 +82,6 @@ Olivia values:
 When Olivia struggles, **MTTR increases, incident stress rises, and customer impact lasts longer**.
 
 </details>
-
----
 
 <details>
 <summary><strong>The How - Example JTBD Set</strong></summary>
@@ -125,8 +114,6 @@ Below are example JTBD commonly associated with Owner Olivia:
    > so I can identify upstream/downstream causes and collaborate effectively during incidents.
 
 </details>
-
----
 
 <details>
 <summary><strong>The How - The 3-Factor JTBD Score</strong></summary>
@@ -178,8 +165,6 @@ Score Guide:
 
 </details>
 
----
-
 <details>
 <summary><strong>The How - Example Scoring</strong></summary>
 
@@ -196,8 +181,6 @@ JTBD Priority = Pain × Frequency × Strategic Fit
 This makes trade-offs explicit and discussable.
 
 </details>
-
----
 
 <details>
 <summary><strong>The How - From Priority to Action</strong></summary>
@@ -234,8 +217,6 @@ These jobs are:
 >**Next Step** - For each **Now** JTBD we execute our [discovery and learning loops](productspeak-4-product-discovery.md)
 
 </details>
-
----
 
 <details>
 <summary><strong>The Key Takeaways</strong></summary>

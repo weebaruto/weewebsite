@@ -1,28 +1,26 @@
-# “Product Speak” #3 — Product Manifesto
+---
+sidebar_position: 3
+---
+# Product Manifesto
 <details>
-<summary><strong>"Product Speak" - A Learning Path</strong></summary>
+<summary><strong>“Product Speak” — A Learning Path</strong></summary>
 
-1. Product Personas - Understanding people
-2. Jobs-To-Be-Done - Understanding progress
-3. ***Product Manifesto - Shared product ethos***
-4. Product Discovery - Validating hypothesis
-5. Product Rhythm - Sustaining learning loop
-6. ProductOps in Git - Build around
-customers
+1. Product Personas — Understanding people
+2. Jobs-To-Be-Done — Understanding progress
+3. ***Product Manifesto — Shared product ethos***
+4. Product Discovery — Validating hypothesis
+5. Product Rhythm — Sustaining learning loop
+6. ProductOps in Git — Build around customers
+7. The 3-Factor Score - Prioritization "What matters?
+8. Playbook Extreme - The bare minimum
 
 </details>
 
----
-
 <details>
-<summary><strong>Content</strong></summary>
+<summary><strong>Today’s Agenda</strong></summary>
 
-- A 10 Step Program ***For Engineers***
-- In Closing, Our Ethos…
-
+- A 10 Step Program ***For Engineers***, providing a shared product ethos
 </details>
-
----
 
 <details>
 <summary><strong>#1 — Start with Real Problems, Not Assumptions</strong></summary>
@@ -40,8 +38,6 @@ Personas help us visualize real-world roles, environments, and behaviors — the
 JTBD defines the progress someone is trying to make, rather than the task they’re doing.
 
 </details>
-
----
 
 <details>
 <summary><strong>#2 — Measure Progress Through Outcomes, Not Output</strong></summary>
@@ -65,8 +61,6 @@ Use personas to predict how different people define “better,” and test wheth
 
 </details>
 
----
-
 <details>
 <summary><strong>#3 — Keep Motivation at the Center</strong></summary>
 
@@ -84,8 +78,6 @@ JTBD helps you articulate them:
 
 </details>
 
----
-
 <details>
 <summary><strong>#4 — Seek Progress, Not Perfection</strong></summary>
 
@@ -98,8 +90,6 @@ Iterate fast. Validate early. Let learning shape your roadmap more than assumpti
 JTBD frames product work as a continuous journey; people struggle, explore, adopt, evaluate, and sometimes switch.
 
 </details>
-
----
 
 <details>
 <summary><strong>#5 — Find and Fix Friction</strong></summary>
@@ -115,8 +105,6 @@ Personas help us spot where struggles appear. JTBD clarifies why they happen and
 
 </details>
 
----
-
 <details>
 <summary><strong>#6 — Build Shared Understanding</strong></summary>
 
@@ -130,8 +118,6 @@ Personas provide a **human reference point**; JTBD provides a ***purpose-driven 
 Together, they align everyone on what “value” truly means.
 
 </details>
-
----
 
 <details>
 <summary><strong>#7 — Balance Innovation with Trust</strong></summary>
@@ -147,8 +133,6 @@ Personas remind us that ***reliability, compliance, and predictability*** aren�
 JTBD frames this as part of the job to be done: people want progress that feels safe.
 
 </details>
-
----
 
 <details>
 <summary><strong>#8 — Simplify Relentlessly</strong></summary>
@@ -167,8 +151,6 @@ Personas remind us which complexities are real — and which are self-inflicted.
 
 </details>
 
----
-
 <details>
 <summary><strong>#9 — Stay Curious, Stay Close</strong></summary>
 
@@ -182,8 +164,6 @@ Personas and jobs are not artifacts to be filed away — they evolve as real peo
 
 </details>
 
----
-
 <details>
 <summary><strong>#10 — Validate with Evidence</strong></summary>
 
@@ -196,8 +176,6 @@ Validate early and often. Ask: “Did this help them do their job faster, safer,
 Personas and JTBD both demand validation — qualitative (stories, feedback) and quantitative (metrics, adoption).
 
 </details>
-
----
 
 <details>
 <summary><strong>In Closing — Our Ethos</strong></summary>

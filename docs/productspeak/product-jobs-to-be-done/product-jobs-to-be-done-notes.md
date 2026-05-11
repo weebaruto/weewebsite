@@ -1,4 +1,4 @@
-# Jobs To Be Done Notes
+# Additional Notes
 
 <details>
 <summary><strong>Jobs-To-Be-Done - What</strong></summary>
@@ -18,8 +18,6 @@ You succeed when your offering helps them make progress better than alternatives
 
 </details>
 
----
-
 <details>
 <summary><strong>Jobs-To-Be-Done - Why</strong></summary>
 
@@ -31,8 +29,6 @@ You succeed when your offering helps them make progress better than alternatives
 - Jobs remain stable over time even as tools and technologies change
 
 </details>
-
----
 
 <details>
 <summary><strong>Jobs-To-Be-Done - How</strong></summary>
@@ -98,8 +94,6 @@ Capture shared understanding:
 
 </details>
 
----
-
 <details>
 <summary><strong>Jobs-To-Be-Done - Dos and Don’ts</strong></summary>
 
@@ -111,8 +105,6 @@ Capture shared understanding:
 - Don’t overcomplicate it — keep it testable
 
 </details>
-
----
 
 <details>
 <summary><strong>Jobs-To-Be-Done – Example “Owner Olivia”</strong></summary>
@@ -132,8 +124,6 @@ Capture shared understanding:
 - Coordinates with SREs and peer teams during incidents
 - Balances feature delivery with operational health
 
----
-
 2️⃣ **Identify Core & Related Jobs**
 
 **Functional Jobs**
@@ -151,15 +141,11 @@ Capture shared understanding:
 - Collaborate effectively during incidents
 - Build trust with peers and leadership
 
----
-
 3️⃣ **Define Core JTBD Statement**
 
 When my service degrades or behaves unexpectedly in production,
 I want to quickly understand what’s happening and why,
 so I can restore reliability with confidence and minimize customer impact.
-
----
 
 4️⃣ **Map the Job Journey**
 
@@ -171,8 +157,6 @@ so I can restore reliability with confidence and minimize customer impact.
 | Resolution | Fixing and validating | Slow feedback | Fast confirmation |
 | Review | Learning | Missing context | Actionable insight |
 
----
-
 5️⃣ **Identify Desired Outcomes & Metrics**
 
 | Outcome | Desired Result | Example Metrics |
@@ -181,8 +165,6 @@ so I can restore reliability with confidence and minimize customer impact.
 | Confidence | Trustworthy alerts | Alert precision |
 | Reliability | Fewer repeat incidents | Error budget burn |
 | Collaboration | Faster coordination | Time to engage right team |
-
----
 
 6️⃣ **Identify Drivers & Constraints**
 
@@ -196,8 +178,6 @@ so I can restore reliability with confidence and minimize customer impact.
 - Tool sprawl
 - Limited time and attention
 
----
-
 7️⃣ **Translate into Product Opportunities**
 
 | JTBD Insight | Opportunity |
@@ -206,8 +186,6 @@ so I can restore reliability with confidence and minimize customer impact.
 | Alert fatigue | Smarter alerting |
 | Dependency blind spots | Service maps |
 | Tool overload | Unified experience |
-
----
 
 8️⃣ **Create Jobs-To-Be-Done Canvas**
 
@@ -220,8 +198,6 @@ Social Jobs | Be a dependable service owner
 Pain Points | Noisy alerts, tool sprawl, missing context
 Desired Outcomes | Lower MTTR, higher confidence, fewer incidents
 Key Constraints | Time pressure, legacy systems
-
----
 
 9️⃣ **Validate and Iterate**
 

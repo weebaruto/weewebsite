@@ -1,13 +1,32 @@
 ---
 sidebar_position: 4
 ---
+
+import DocCardList from '@theme/DocCardList';
+
 # Example Persona
-***TL;DR*** - Example Product Persona artifacts (and a template to follow) based on the introduction of a Foundational Observability Platform powered by OpenTelemetry.
+>Example Product Persona artifacts (and a template to follow) based on the introduction of a Foundational Observability Platform powered by OpenTelemetry.
 
-**Purpose**\
-Introduction to the concept of [Product Persona](../productspeak/productspeak-1-product-persona-notes.md), how they help us know who our customers are, but also why they turn to our products and services; they give context (who the user is) and intent (why they act)
+### Purpose
+Introduction to the concept of [Product Persona](../productspeak/product-persona), how they help us know who our customers are, but also why they turn to our products and services; they give context (who the user is) and intent (why they act)
 
-What You’ll Find Here:
-- "[Owner Olivia](./persona-owner-olivia.md)" - End-to-end owner of a customer-facing service who needs clarity, simplicity, and reliability.
-- "[Builder Bella](./persona-builder-bella.md)" - Everyday software engineer who benefits from frictionless tooling, clear conventions, and fast feedback.
-- "[Reliability Ravi](./persona-reliability-ravi.md)" - Power user of the Platform — responsible for reliability, incident response, and operational excellence.
+<DocCardList items={[
+    {
+        type: 'link',
+        href: 'persona-owner-olivia',
+        label: 'Owner Olivia',
+        description: 'Example Product Persona for Owner Olivia'
+    },
+    {
+        type: 'link',
+        href: 'persona-builder-bella',
+        label: 'Builder Bella',
+        description: 'Example Product Persona for Builder Bella'
+    },
+    {
+        type: 'link',
+        href: 'persona-reliability-ravi',
+        label: 'Reliability Ravi',
+        description: 'Example Product Persona for Reliability Ravi'
+    },
+]}/>

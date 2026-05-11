@@ -1,4 +1,8 @@
-# Minimal
+---
+sidebar_position: 8
+---
+
+# Playbook Extreme
 
 This document defines an **extreme lightweight version of "Product Speak"** — just enough shared language and structure to align teams, avoid feature-first thinking, and support fast, confident decisions.
 
