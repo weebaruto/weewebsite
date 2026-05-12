@@ -12,9 +12,8 @@ sidebar_position: 2
 3. Product Manifesto – Shared product ethos
 4. Product Discovery – Validating hypothesis
 5. Product Rhythm – Sustaining learning loop
-6. ProductOps in Git – Build around customers
-7. The 3-Factor Score - Prioritization "What matters?
-8. Playbook Extreme - The bare minimum
+6. The 3-Factor Score - Prioritization, What matters?
+7. Playbook Extreme - The bare minimum
 
 </details>
 
