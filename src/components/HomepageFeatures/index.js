@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Product Playbook',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/strategy-planning-svgrepo-com.svg').default,
     description: (
       <>
         Highlighting the concepts and practices for “putting product at the center” of your delivery cycle.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: '90-in-90',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/ninety-svgrepo-com.svg').default,
     description: (
       <>
         Part reset, part adventure, and a reminder that sometimes the best next step is simply to step back.
@@ -22,11 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Topic 3',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Free Space',
+    Svg: require('@site/static/img/for-rent-svgrepo-com.svg').default,
     description: (
       <>
-        blah, blah
+        Future content
       </>
     ),
   },
