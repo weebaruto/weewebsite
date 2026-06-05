@@ -6,13 +6,13 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Product Playbook',
-    link: '/docs',
+    link: 'docs/',
     Svg: require('@site/static/img/strategy-planning-svgrepo-com.svg').default,
     description: 'Highlighting the concepts and practices for "putting product at the center" of your delivery cycle.',
   },
   {
     title: '90-in-90',
-    link: '/blog',
+    link: 'blog/',
     Svg: require('@site/static/img/ninety-svgrepo-com.svg').default,
     description: 'Part reset, part adventure, and a reminder that sometimes the best next step is simply to step back.',
   },
