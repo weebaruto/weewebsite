@@ -112,38 +112,37 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Product Playbook',
+                to: '/docs/',
+              },
+              {
+                label: 'Blog - 90-in-90',
+                to: '/blog/',
               },
             ],
           },
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
+            title: ' ',
+            items: [],
           },
           {
-            title: 'More',
+            title: ' ',
+            items: [],
+          },
+          {
+            title: ' ',
+            items: [],
+          },
+          {
+            title: 'Other',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/weebaruto/',
+              },
+                            {
+                label: 'Link Tree',
+                href: 'https://weebaruto.github.io/weetree/',
               },
             ],
           },
