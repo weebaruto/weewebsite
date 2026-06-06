@@ -98,6 +98,7 @@ const config = {
             label: 'Product Playbook',
           },
           {to: '/blog', label: '90-in-90', position: 'left'},
+          {to: '/profile', label: 'Career', position: 'left'},
           {
             href: 'https://github.com/weebaruto/',
             label: 'GitHub',
@@ -118,6 +119,10 @@ const config = {
               {
                 label: 'Blog - 90-in-90',
                 to: '/blog/',
+              },
+              {
+                label: 'Career',
+                to: '/profile',
               },
             ],
           },
