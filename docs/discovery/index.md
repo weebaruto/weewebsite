@@ -13,7 +13,7 @@ Introduction to the concept of a Discovery Cycle and how we reduce uncertainty b
 <DocCardList items={[
     {
         type: 'link',
-        href: 'jtbd-2-discovery-sheet',
+        href: '/docs/discovery/jtbd-2-discovery-sheet',
         label: 'Discovery Sheet',
         description: 'Discovery Sheet for JTBD-2: Detect and Diagnose Issues Quickly'
     },

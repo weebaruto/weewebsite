@@ -13,37 +13,37 @@ Introduction to the concept of Jobs-To-Be-Done, a framework which asserts that c
 <DocCardList items={[
     {
         type: 'link',
-        href: 'jtbd-owner-olivia-statements',
+        href: '/docs/jobs-to-be-done/jtbd-owner-olivia-statements',
         label: 'Owner Olivia Statement',
         description: 'Job Statements for Owner Olivia'
     },
     {
         type: 'link',
-        href: 'jtbd-owner-olivia-canvas',
+        href: '/docs/jobs-to-be-done/jtbd-owner-olivia-canvas',
         label: 'Owner Olivia Canvas',
         description: 'Job Canvas for Owner Olivia'
     },
     {
         type: 'link',
-        href: 'jtbd-builder-bella-statements',
+        href: '/docs/jobs-to-be-done/jtbd-builder-bella-statements',
         label: 'Builder Bella Statement',
         description: 'Job Statements for Builder Bella'
     },
     {
         type: 'link',
-        href: 'jtbd-builder-bella-canvas',
+        href: '/docs/jobs-to-be-done/jtbd-builder-bella-canvas',
         label: 'Builder Bella Canvas',
         description: 'Job Canvas for Builder Bella'
     },
     {
         type: 'link',
-        href: 'jtbd-reliability-ravi-statements',
+        href: '/docs/jobs-to-be-done/jtbd-reliability-ravi-statements',
         label: 'Reliability Ravi Statement',
         description: 'Job Statements for Reliability Ravi'
     },
     {
         type: 'link',
-        href: 'jtbd-reliability-ravi-canvas',
+        href: '/docs/jobs-to-be-done/jtbd-reliability-ravi-canvas',
         label: 'Reliability Ravi Canvas',
         description: 'Job Canvas for Reliability Ravi'
     },

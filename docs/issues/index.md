@@ -16,13 +16,13 @@ Introduction to a workflow levering Git Issues to provide us with traceability a
 <DocCardList items={[
     {
         type: 'link',
-        href: 'discovery',
+        href: '/docs/issues/discovery',
         label: 'Discovery',
         description: 'Example Discovery Kick-off Issue'
     },
         {
         type: 'link',
-        href: 'feature',
+        href: '/docs/issues/feature',
         label: 'Feature',
         description: 'Example Feature Delivery Raised From Discovery'
     },

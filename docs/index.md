@@ -17,37 +17,37 @@ A lite-weight product operating model that explains how product decisions are ma
 <DocCardList items={[
     {
         type: 'link',
-        href: 'gettingstarted',
+        href: '/docs/gettingstarted',
         label: 'Getting Started',
         description: 'How to get started with your own Product Operating Model'
     },
     {
-        type: 'category',
-        href: 'productspeak',
+        type: 'link',
+        href: '/docs/productspeak',
         label: 'Product Speak',
-        description: 'Educational series on “putting product at the center"'
+        description: 'Educational series on “putting product at the center”'
     },
     {
-        type: 'category',
-        href: 'personas',
+        type: 'link',
+        href: '/docs/personas',
         label: 'Example Persona',
         description: 'Example product personas (and template)'
     },
     {
-        type: 'category',
-        href: 'jobs-to-be-done',
+        type: 'link',
+        href: '/docs/jobs-to-be-done',
         label: 'Example Jobs-To-Be-Done',
         description: 'Example Jobs-To-Be-Done artifacts (and templates)'
     },
     {
-        type: 'category',
-        href: 'discovery',
+        type: 'link',
+        href: '/docs/discovery',
         label: 'Example Discovery Cycle',
         description: 'Example Discovery Cycle artifacts (and template)'
     },
-   {
-        type: 'category',
-        href: 'issues',
+    {
+        type: 'link',
+        href: '/docs/issues',
         label: 'Example Issue Forms',
         description: 'Example Discovery & Feature Form Templates'
     }

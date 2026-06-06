@@ -18,50 +18,50 @@ import DocCardList from '@theme/DocCardList';
 
 <DocCardList items={[
     {
-        type: 'category',
-        href: 'product-persona',
+        type: 'link',
+        href: '/docs/productspeak/product-persona',
         label: 'Product Personas',
         description: 'Understanding People'
     },
     {
-        type: 'category',
-        href: 'product-jobs-to-be-done',
+        type: 'link',
+        href: '/docs/productspeak/product-jobs-to-be-done',
         label: 'Jobs-To-Be-Done',
         description: 'Understanding progress'
     },
     {
         type: 'link',
-        href: 'product-manifesto',
+        href: '/docs/productspeak/product-manifesto',
         label: 'Product Manifesto',
         description: 'A Shared Product Ethos'
     },
     {
         type: 'link',
-        href: 'product-discovery',
+        href: '/docs/productspeak/product-discovery',
         label: 'Product Discovery',
         description: 'Validating hypothesis'
     },
     {
         type: 'link',
-        href: 'product-rhythm',
+        href: '/docs/productspeak/product-rhythm',
         label: 'Product Rhythm',
         description: 'Sustaining learning loop'
     },
     {
         type: 'link',
-        href: 'productops-in-git',
+        href: '/docs/productspeak/productops-in-git',
         label: 'ProductOps in Git',
         description: 'Build around customers'
     },
     {
         type: 'link',
-        href: '3factor-jtbd',
+        href: '/docs/productspeak/3factor-jtbd',
         label: 'The 3-Factor Score',
         description: 'Prioritization - What matters?'
     },
     {
         type: 'link',
-        href: 'playbook-extreme',
+        href: '/docs/productspeak/playbook-extreme',
         label: 'Playbook Extreme',
         description: 'The bare minimum'
     },
