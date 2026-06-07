@@ -6,20 +6,21 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Product Playbook',
-    link: '/docs/',
+    link: '/docs/product-playbook/',
     Svg: require('@site/static/img/strategy-planning-svgrepo-com.svg').default,
     description: 'Highlighting the concepts and practices for "putting product at the center" of your delivery cycle.',
+  },
+  {
+    title: 'A Song For Life',
+    link: '/docs/ikigai/',
+    Svg: require('@site/static/img/ikigai-icon.svg').default,
+    description: 'What started as a dog-eared "book" of lyrics, held together by a bull-chip is now a pet project.',
   },
   {
     title: '90-in-90',
     link: '/blog/',
     Svg: require('@site/static/img/ninety-svgrepo-com.svg').default,
     description: 'Part reset, part adventure, and a reminder that sometimes the best next step is simply to step back.',
-  },
-  {
-    title: 'Free Space',
-    Svg: require('@site/static/img/for-rent-svgrepo-com.svg').default,
-    description: 'Future content',
   },
 ];
 

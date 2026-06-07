@@ -93,9 +93,15 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'playbookSidebar',
             position: 'left',
             label: 'Product Playbook',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'ikigaiSidebar',
+            position: 'left',
+            label: 'Song For Life',
           },
           {to: '/blog', label: '90-in-90', position: 'left'},
           {to: '/profile', label: 'Career', position: 'left'},
@@ -110,42 +116,9 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Product Playbook',
-                to: '/docs/',
-              },
-              {
-                label: 'Blog - 90-in-90',
-                to: '/blog/',
-              },
-              {
-                label: 'Career',
-                to: '/profile',
-              },
-            ],
-          },
-          {
-            title: ' ',
-            items: [],
-          },
-          {
-            title: ' ',
-            items: [],
-          },
-          {
-            title: ' ',
-            items: [],
-          },
-          {
             title: 'Other',
             items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/weebaruto/',
-              },
-                            {
+             {
                 label: 'Link Tree',
                 href: 'https://weebaruto.github.io/weetree/',
               },

@@ -13,19 +13,19 @@ Introduction to the concept of [Product Persona](../productspeak/product-persona
 <DocCardList items={[
     {
         type: 'link',
-        href: '/docs/personas/persona-owner-olivia',
+        href: '/docs/product-playbook/personas/persona-owner-olivia',
         label: 'Owner Olivia',
         description: 'Example Product Persona for Owner Olivia'
     },
     {
         type: 'link',
-        href: '/docs/personas/persona-builder-bella',
+        href: '/docs/product-playbook/personas/persona-builder-bella',
         label: 'Builder Bella',
         description: 'Example Product Persona for Builder Bella'
     },
     {
         type: 'link',
-        href: '/docs/personas/persona-reliability-ravi',
+        href: '/docs/product-playbook/personas/persona-reliability-ravi',
         label: 'Reliability Ravi',
         description: 'Example Product Persona for Reliability Ravi'
     },

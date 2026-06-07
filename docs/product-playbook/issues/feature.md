@@ -13,7 +13,7 @@ Owner Olivia
 Olivia — JTBD‑2: Detect and Diagnose Issues Quickly
 
 ### Discovery Cycle Link
-[jtbd-2-discovery-sheet.md](../discovery/owner-olivia/jtbd-2-discovery-sheet.md)
+[jtbd-2-discovery-sheet.md](../discovery/jtbd-2-discovery-sheet.md)
 
 ### Evidence Supporting This Feature
 - Olivia: “I just want one place to start when something breaks.”

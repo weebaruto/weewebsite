@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 224" width="512" height="512">
+  <defs>
+    <clipPath id="ik">
+      <circle cx="112" cy="112" r="104"/>
+    </clipPath>
+  </defs>
+
+  <!-- Outer ring — matches strategy-planning blue -->
+  <circle cx="112" cy="112" r="112" fill="#1C71DA"/>
+  <!-- Inner background -->
+  <circle cx="112" cy="112" r="104" fill="#D0E8FF"/>
+
+  <!-- Venn circles: solid fills, same accent palette as strategy SVG.
+       Draw order: red → yellow → green → blue so top/right petals = blue, bottom/left = green -->
+  <g clip-path="url(#ik)">
+    <circle cx="66"  cy="66"  r="64" fill="#FF5D5D"/>
+    <circle cx="158" cy="158" r="64" fill="#FFC504"/>
+    <circle cx="66"  cy="158" r="64" fill="#00D40B"/>
+    <circle cx="158" cy="66"  r="64" fill="#5CB0FF"/>
+  </g>
+
+  <!-- White Ikigai centre — large enough for readable text at 100px display -->
+  <circle cx="112" cy="112" r="56" fill="#FFFFFF"/>
+
+  <!-- 生き甲斐 — bold Gothic sans, chunky weight -->
+  <text x="112" y="106"
+        font-family="'Noto Sans JP', 'Yu Gothic', 'Hiragino Kaku Gothic Pro', 'MS Gothic', Arial, sans-serif"
+        font-size="42"
+        font-weight="700"
+        fill="#56B48C"
+        text-anchor="middle">生き</text>
+  <text x="112" y="150"
+        font-family="'Noto Sans JP', 'Yu Gothic', 'Hiragino Kaku Gothic Pro', 'MS Gothic', Arial, sans-serif"
+        font-size="42"
+        font-weight="700"
+        fill="#56B48C"
+        text-anchor="middle">甲斐</text>
+</svg>

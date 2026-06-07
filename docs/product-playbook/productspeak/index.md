@@ -19,49 +19,49 @@ import DocCardList from '@theme/DocCardList';
 <DocCardList items={[
     {
         type: 'link',
-        href: '/docs/productspeak/product-persona',
+        href: '/docs/product-playbook/productspeak/product-persona',
         label: 'Product Personas',
         description: 'Understanding People'
     },
     {
         type: 'link',
-        href: '/docs/productspeak/product-jobs-to-be-done',
+        href: '/docs/product-playbook/productspeak/product-jobs-to-be-done',
         label: 'Jobs-To-Be-Done',
         description: 'Understanding progress'
     },
     {
         type: 'link',
-        href: '/docs/productspeak/product-manifesto',
+        href: '/docs/product-playbook/productspeak/product-manifesto',
         label: 'Product Manifesto',
         description: 'A Shared Product Ethos'
     },
     {
         type: 'link',
-        href: '/docs/productspeak/product-discovery',
+        href: '/docs/product-playbook/productspeak/product-discovery',
         label: 'Product Discovery',
         description: 'Validating hypothesis'
     },
     {
         type: 'link',
-        href: '/docs/productspeak/product-rhythm',
+        href: '/docs/product-playbook/productspeak/product-rhythm',
         label: 'Product Rhythm',
         description: 'Sustaining learning loop'
     },
     {
         type: 'link',
-        href: '/docs/productspeak/productops-in-git',
+        href: '/docs/product-playbook/productspeak/productops-in-git',
         label: 'ProductOps in Git',
         description: 'Build around customers'
     },
     {
         type: 'link',
-        href: '/docs/productspeak/3factor-jtbd',
+        href: '/docs/product-playbook/productspeak/3factor-jtbd',
         label: 'The 3-Factor Score',
         description: 'Prioritization - What matters?'
     },
     {
         type: 'link',
-        href: '/docs/productspeak/playbook-extreme',
+        href: '/docs/product-playbook/productspeak/playbook-extreme',
         label: 'Playbook Extreme',
         description: 'The bare minimum'
     },
