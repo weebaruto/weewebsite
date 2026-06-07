@@ -1,6 +1,9 @@
 ---
 sidebar_position: 1
 ---
+
+import DocCardList from '@theme/DocCardList';
+
 # A Song For Life · 生き甲斐
 
 <details>
@@ -33,3 +36,31 @@ They keep my feet on the ground...<br />
 They keep my feet on the ground
 
 </details>
+
+### The Starting Point...
+Music has been my thing since I was ten - the day I bought my first "music centre" with money earned climbing across the rooftops of Northern Ireland. The quest to find the next sound hasn't stopped since.
+
+After my first 90-in-90 I started collecting lyrics. Printed them out, bound them with a bull-clip. It was barely a book, but it did what books do - it brought me back to myself when I needed a quiet moment.
+
+This is an attempt to do something with that _pile_.
+
+<DocCardList items={[
+    {
+        type: 'link',
+        href: '/docs/ikigai/persona-seeker-bobby',
+        label: 'Seeker Bobby - Persona',
+        description: 'Product Persona for Seeker Bobby'
+    },
+    {
+        type: 'link',
+        href: '/docs/ikigai/jtbd-song-for-life-statements',
+        label: 'Jobs-To-Be-Done Statements',
+        description: 'Job Statements for Seeker Bobby'
+    },
+    {
+        type: 'link',
+        href: '/docs/ikigai/jtbd-song-for-life-canvas',
+        label: 'Jobs-To-Be-Done Canvas',
+        description: 'Job Canvas for Seeker Bobby'
+    },
+]}/>
