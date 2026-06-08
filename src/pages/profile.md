@@ -9,7 +9,7 @@ import bioImage from '@site/static/img/bio.jpg';
   <img src={bioImage} alt="Bobby Mawhinney" style={{width: '110px', height: '110px', borderRadius: '50%', objectFit: 'cover', objectPosition: 'top', flexShrink: 0}} />
   <div>
     <h1 style={{marginBottom: '0.25rem'}}>Bobby Mawhinney</h1>
-    <p style={{margin: 0}}>📍 New York, NY &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/bobbymawhinney">LinkedIn</a></p>
+    <p style={{margin: 0}}>📍 New York, NY &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/bobby-mawhinney/">LinkedIn</a></p>
   </div>
 </div>
 
