@@ -7,9 +7,9 @@ hide_table_of_contents: false
 
 千秋楽 — *Senshuraku* — the final day of a sumo tournament. The dohyō gets swept, the trophies get handed out, and whatever you brought to the basho is what you brought. You don't get another go.
 
-Well, my little basho is over. Nine months ago a friend was generous (or foolish) enough to let me intern for 90 days at his company, and the end of November I handed over the keys.
-
 <!-- truncate -->
+
+Well, my little basho is over. Nine months ago a friend was generous (or foolish) enough to let me intern for 90 days at his company, and the end of November I handed over the keys.
 
 What I left behind is the [Product Operating Playbook](https://weebaruto.github.io/weewebsite/docs/) — personas, jobs-to-be-done, a lightweight discovery cycle, some issue templates. Nothing earth-shattering. The hope is that it sticks. That six months from now someone opens a ticket and asks "but who is this *for*?" — and that the playbook is the small reason they thought to ask.
 
