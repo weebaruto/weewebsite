@@ -38,11 +38,11 @@ import bioImage from '@site/static/img/bio.jpg';
 
 ## 🏆 Goals
 
-- Arrive at a resonant lyric without having to search for one
+- Arrive at the lyrics to a resonant song without having to search
 - Read something in the morning that sets a tone worth carrying into the day
 - Have a single place where the words that matter actually live
 - Add to the collection without it feeling like a task
-- Share a lyric with someone who needs it — simply, without ceremony
+- Share a song's lyrics with someone who needs it — simply, without ceremony
 
 ---
 
@@ -60,7 +60,7 @@ import bioImage from '@site/static/img/bio.jpg';
 ## 📈 Measures of Success
 
 - Opens it daily without being prompted or reminded
-- At least one lyric per session that actually lands — he feels it, not just reads it
+- At least one song per session whose lyrics actually land — he feels it, not just reads it
 - The collection grows week over week without it feeling like effort
 - The reflection ritual survives beyond the ninety days that started it
 - He shares something with someone and it says what he couldn't
