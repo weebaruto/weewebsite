@@ -16,7 +16,7 @@ function LatestPostTicker() {
     return null;
   }
 
-  const label = `📖  Latest from 90-in-90:  ${latest.title}`;
+  const label = `📖  Latest Blog:  ${latest.title}`;
   // One label per group; two identical groups loop seamlessly at translateX(-50%),
   // so a single item appears to scroll round and round through the small window.
   const group = (
