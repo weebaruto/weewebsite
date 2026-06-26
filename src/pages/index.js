@@ -57,11 +57,9 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="The personal site of Bobby Mawhinney: vinyl, sumo, product craft, and the 90-in-90 blog.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Being Bobby',
   tagline: '相撲バカ・Vinyl Lover・お神輿担ぎ手・Country Boy ・猫舌 ・ Groove Tube Owner ・ しょうがない!',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -79,8 +79,8 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // Social card shown when a link to the site is shared/unfurled
+      image: 'img/being-bobby-card.png',
       colorMode: {
         respectPrefersColorScheme: true,
       },
