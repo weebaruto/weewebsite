@@ -45,3 +45,14 @@ docs/
 - `future.v4: true` — forward-compatibility flag for Docusaurus v4
 - Color mode auto-detects from system preference (`respectPrefersColorScheme: true`)
 - No `editUrl` is set, so "Edit this page" links are disabled
+
+## Blog writing style (Bobby)
+
+When writing 90-in-90 blog posts, follow these conventions:
+
+- **No em dashes (—).** Use commas for parenthetical asides, a colon when introducing a phrase or elaboration, and parentheses for brief mid-sentence insertions.
+- Short paragraphs, flowing prose, no headers in the body.
+- Personal and direct. First person, honest self-reflection, connects the specific story to a broader idea.
+- `<!-- truncate -->` goes after the first paragraph (this becomes the blog list preview).
+- One or two images per post; place them at natural pivot points, not decoratively.
+- Ends with a short, punchy kicker line — not a summary.
