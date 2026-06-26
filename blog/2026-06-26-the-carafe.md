@@ -13,9 +13,10 @@ My daughter turned 25 this year, an interior designer at IKEA, buying her a pres
 Then I found [this](https://www.red-dot.org/project/sonnenglasr-light-carafe-82761). Nothing served it up. No feed, no "you might also like". I went looking, and there it was.
 
 <div class="text--center">
-  <img src="/weewebsite/img/sonnenglas-carafe-life.jpg" alt="The carafe glowing on a table" width="420" />
+  <img src="/weewebsite/img/jar.png" alt="The carafe glowing on a table" width="420" />
 </div>
 
+<br  />
 The Sonnenglas Light Carafe. Hand-blown from old bottles collected off the streets of Eswatini, where for a lot of folk that collecting is the only income going. The glass gets sorted, shredded, melted down in a furnace that runs on waste cooking oil and solar. Seven people to make one carafe. A whole year of training before you're even allowed near the pipe! And what do you get at the end of all that? A jug that's also a lamp. The little solar light sits in the neck, comes on when you get close, give it a twist to switch off. No buttons. No app. No "firmware update
 
 It doesn't do anything extra. Every bit of it is exactly what's needed and not one thing more. The glass is honest. The light's from the sun. It was rubbish before it was this, and I mean that literally (their phrase is "from waste to elegance", and I haven't been able to stop thinking about it).

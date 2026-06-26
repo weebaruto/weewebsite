@@ -21,3 +21,65 @@
   align-items: center;
   justify-content: center;
 }
+
+/* Latest-post ticker in the hero ("Being Bobby") section */
+.ticker {
+  display: block;
+  margin: 1.5rem auto 0;
+  max-width: 200px;
+  overflow: hidden;
+  white-space: nowrap;
+  padding: 0.45rem 0;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 999px;
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 12%, #000 88%, transparent);
+  mask-image: linear-gradient(90deg, transparent, #000 12%, #000 88%, transparent);
+}
+
+.ticker,
+.ticker:hover {
+  text-decoration: none;
+}
+
+.tickerTrack {
+  display: flex;
+  width: max-content;
+  animation: ticker-scroll 16s linear infinite;
+}
+
+.ticker:hover .tickerTrack {
+  animation-play-state: paused;
+}
+
+.tickerGroup {
+  display: flex;
+}
+
+.tickerItem {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: var(--ifm-hero-text-color, #fff);
+}
+
+.tickerSep {
+  opacity: 0.5;
+  padding: 0 1.25rem;
+}
+
+@keyframes ticker-scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tickerTrack {
+    animation: none;
+  }
+}
