@@ -7,13 +7,13 @@ const FeatureList = [
   {
     title: 'Product Playbook',
     link: '/docs/product-playbook/',
-    Svg: require('@site/static/img/strategy-planning-svgrepo-com.svg').default,
+    Svg: require('@site/static/img/product-playbook-icon.svg').default,
     description: 'Highlighting the concepts and practices for "putting product at the center" of your delivery cycle.',
   },
   {
     title: 'A Song For Life',
     link: '/docs/ikigai/',
-    Svg: require('@site/static/img/ikigai-icon.svg').default,
+    Svg: require('@site/static/img/song-for-life-icon.svg').default,
     description: 'What started as a dog-eared "book" of lyrics, held together by a bull-chip is now a pet project.',
   },
   {
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Waza',
-    link: '/skills',
+    link: '/waza',
     Svg: require('@site/static/img/waza-icon.svg').default,
     description: '技, technique. A catalog of the Agent Skills I keep teaching my AI, each one a small, repeatable craft.',
   },

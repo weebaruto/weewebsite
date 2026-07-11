@@ -47,7 +47,7 @@ const config = {
         skillsDir: './external/skills',
         repoUrl: 'https://github.com/weebaruto/weeskills',
         branch: 'main',
-        routeBasePath: 'skills',
+        routeBasePath: 'waza',
       },
     ],
   ],
@@ -116,7 +116,7 @@ const config = {
             label: 'Song For Life',
           },
           {to: '/blog', label: '90-in-90', position: 'left'},
-          {to: '/skills', label: 'Waza', position: 'left'},
+          {to: '/waza', label: 'Waza', position: 'left'},
           {to: '/profile', label: 'Chapters', position: 'left'},
           {
             href: 'https://github.com/weebaruto/',
