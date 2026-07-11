@@ -40,6 +40,18 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      './plugins/docusaurus-plugin-skills',
+      {
+        skillsDir: './external/skills',
+        repoUrl: 'https://github.com/weebaruto/weeskills',
+        branch: 'main',
+        routeBasePath: 'skills',
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
@@ -104,7 +116,8 @@ const config = {
             label: 'Song For Life',
           },
           {to: '/blog', label: '90-in-90', position: 'left'},
-          {to: '/profile', label: 'Career', position: 'left'},
+          {to: '/skills', label: 'Waza', position: 'left'},
+          {to: '/profile', label: 'Chapters', position: 'left'},
           {
             href: 'https://github.com/weebaruto/',
             label: 'GitHub',

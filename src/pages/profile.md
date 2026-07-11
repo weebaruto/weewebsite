@@ -4,6 +4,9 @@ description: Engineering Enabler · Architect · Product Strategist · Bar Raise
 ---
 
 import bioImage from '@site/static/img/bio.jpg';
+import Breadcrumbs from '@site/src/components/Breadcrumbs';
+
+<Breadcrumbs items={[{label: 'Chapters'}]} />
 
 <div style={{display: 'flex', alignItems: 'center', gap: '1.5rem', marginBottom: '1.5rem'}}>
   <img src={bioImage} alt="Bobby Mawhinney" style={{width: '110px', height: '110px', borderRadius: '50%', objectFit: 'cover', objectPosition: 'top', flexShrink: 0}} />

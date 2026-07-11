@@ -22,6 +22,12 @@ const FeatureList = [
     Svg: require('@site/static/img/ninety-svgrepo-com.svg').default,
     description: 'Part reset, part adventure, and a reminder that sometimes the best next step is simply to step back.',
   },
+  {
+    title: 'Waza',
+    link: '/skills',
+    Svg: require('@site/static/img/waza-icon.svg').default,
+    description: '技, technique. A catalog of the Agent Skills I keep teaching my AI, each one a small, repeatable craft.',
+  },
 ];
 
 export default function HomepageFeatures() {
@@ -30,7 +36,7 @@ export default function HomepageFeatures() {
       <div className="container">
         <div className="row">
           {FeatureList.map(({Svg, title, description, link}, idx) => (
-            <div key={idx} className={clsx('col col--4')}>
+            <div key={idx} className={clsx('col col--3')}>
               <div className="text--center">
                 <Link to={link}><Svg className={styles.featureSvg} role="img" /></Link>
               </div>

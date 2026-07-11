@@ -1,0 +1,149 @@
+.header {
+  margin-bottom: 1.5rem;
+}
+
+.subtitle {
+  color: var(--ifm-color-emphasis-700);
+  font-size: 1.1rem;
+  margin-bottom: 0;
+}
+
+.search {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: var(--ifm-global-radius);
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  margin-bottom: 1rem;
+}
+
+.search:focus {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 0 0 3px var(--ifm-color-primary-lightest);
+}
+
+.tagFilter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.tagButton {
+  padding: 0.35rem 0.85rem;
+  font-size: 0.875rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 2rem;
+  background: transparent;
+  color: var(--ifm-font-color-base);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.tagButton:hover {
+  border-color: var(--ifm-color-primary);
+}
+
+.tagActive {
+  background: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-button-color, #fff);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.25rem 1.4rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: var(--ifm-global-radius);
+  background: var(--ifm-background-surface-color);
+  color: inherit;
+  text-decoration: none;
+  transition: border-color 0.15s ease, transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.card:hover {
+  text-decoration: none;
+  color: inherit;
+  border-color: var(--ifm-color-primary);
+  transform: translateY(-2px);
+  box-shadow: var(--ifm-global-shadow-lw);
+}
+
+.cardTitle {
+  font-size: 1.15rem;
+  margin-bottom: 0.5rem;
+}
+
+.cardDesc {
+  color: var(--ifm-color-emphasis-700);
+  font-size: 0.925rem;
+  line-height: 1.5;
+  margin-bottom: 0.75rem;
+  /* Clamp long skill descriptions to keep cards even. */
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.cardTags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: auto;
+}
+
+.badge {
+  font-size: 0.75rem;
+  padding: 0.15rem 0.6rem;
+  border-radius: 1rem;
+  background: var(--ifm-color-emphasis-200);
+  color: var(--ifm-color-emphasis-800);
+}
+
+.empty {
+  margin-top: 2rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+/* Detail page */
+.detailHeader {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.detailTitle {
+  margin-bottom: 0;
+}
+
+.ghLink {
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.description {
+  color: var(--ifm-color-emphasis-700);
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin: 0.75rem 0 1rem;
+}
+
+.files {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+}

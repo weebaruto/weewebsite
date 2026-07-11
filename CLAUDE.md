@@ -56,9 +56,3 @@ When writing 90-in-90 blog posts, follow these conventions:
 - `<!-- truncate -->` goes after the first paragraph (this becomes the blog list preview).
 - One or two images per post; place them at natural pivot points, not decoratively.
 - Ends with a short, punchy kicker line — not a summary.
-
-### After creating a new post: check the homepage ticker
-
-The hero ("Being Bobby") section on the homepage has a scrolling ticker highlighting the latest post (`LatestPostTicker` in `src/pages/index.js`). It reads the blog list Docusaurus regenerates on every build (`.docusaurus/.../blog-post-list-prop-default.json`) and always shows the newest non-unlisted post, so it **updates itself** — no manual edit is needed.
-
-Every time you create a new blog post, finish by verifying the ticker picked it up: run `yarn build` and confirm the new title appears and links to the post. The only time it needs attention is an unusual date (a backdated or future-dated post won't sort to the top), or a renamed `blog-post-list-prop-default.json` after a Docusaurus major upgrade.
