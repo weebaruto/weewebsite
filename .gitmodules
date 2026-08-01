@@ -1,3 +1,6 @@
 [submodule "external/skills"]
 	path = external/skills
 	url = https://github.com/weebaruto/weeskills
+[submodule "external/lyrics"]
+	path = external/lyrics
+	url = https://github.com/weebaruto/weelyrics
