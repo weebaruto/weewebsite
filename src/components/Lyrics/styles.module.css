@@ -162,9 +162,28 @@
   display: block;
   margin-bottom: 1.5rem;
 }
-.byline {
+/* Full metadata for a song: every frontmatter field the entry carries. */
+.meta {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.6rem 1.75rem;
+  align-items: baseline;
+  margin: 1.5rem 0;
+  padding: 1.25rem 1.4rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: var(--ifm-global-radius);
+  background: var(--ifm-background-surface-color);
+}
+.metaKey {
+  margin: 0;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
   color: var(--ifm-color-emphasis-600);
-  margin: 0.25rem 0 0;
+}
+.metaValue {
+  margin: 0;
 }
 .note {
   font-size: 1.1rem;

@@ -5,6 +5,22 @@ import Breadcrumbs from '../Breadcrumbs';
 import SongForLifeLayout from './SongForLifeLayout';
 import styles from './styles.module.css';
 
+// Frontmatter key -> readable label: `album` -> `Album`,
+// `allowed-tools` / `allowedTools` -> `Allowed tools`.
+function labelFor(key) {
+  const words = key
+    .replace(/([a-z0-9])([A-Z])/g, '$1 $2')
+    .replace(/[-_]+/g, ' ')
+    .trim()
+    .toLowerCase();
+  return words.charAt(0).toUpperCase() + words.slice(1);
+}
+
+function isEmpty(value) {
+  if (value === null || value === undefined || value === '') return true;
+  return Array.isArray(value) && value.length === 0;
+}
+
 export default function Detail({song}) {
   const {
     title,
@@ -13,9 +29,18 @@ export default function Detail({song}) {
     tags = [],
     note,
     geniusUrl,
+    meta = {},
     catalogPermalink,
     githubUrl,
   } = song;
+
+  // Every field the entry carries: the known ones first, then whatever else
+  // the frontmatter holds (album, writer, ...) in the order it was written.
+  const rows = [
+    ['Artist', artist],
+    ['Year', year],
+    ...Object.entries(meta).map(([k, v]) => [labelFor(k), v]),
+  ].filter(([, value]) => !isEmpty(value));
 
   return (
     <SongForLifeLayout
@@ -29,25 +54,35 @@ export default function Detail({song}) {
         />
         <header className={styles.detailHeader}>
           <h1>{title}</h1>
-          {(artist || year) && (
-            <p className={styles.byline}>
-              {artist}
-              {artist && year ? ' · ' : ''}
-              {year || ''}
-            </p>
-          )}
         </header>
 
         {note && <blockquote className={styles.note}>{note}</blockquote>}
 
-        {tags.length > 0 && (
-          <div className={styles.cardTags}>
-            {tags.map((t) => (
-              <span key={t} className={styles.badge}>
-                {t}
-              </span>
+        {(rows.length > 0 || tags.length > 0) && (
+          <dl className={styles.meta}>
+            {rows.map(([label, value]) => (
+              <React.Fragment key={label}>
+                <dt className={styles.metaKey}>{label}</dt>
+                <dd className={styles.metaValue}>
+                  {Array.isArray(value) ? value.join(', ') : String(value)}
+                </dd>
+              </React.Fragment>
             ))}
-          </div>
+            {tags.length > 0 && (
+              <>
+                <dt className={styles.metaKey}>Tags</dt>
+                <dd className={styles.metaValue}>
+                  <div className={styles.cardTags}>
+                    {tags.map((t) => (
+                      <span key={t} className={styles.badge}>
+                        {t}
+                      </span>
+                    ))}
+                  </div>
+                </dd>
+              </>
+            )}
+          </dl>
         )}
 
         {geniusUrl && (

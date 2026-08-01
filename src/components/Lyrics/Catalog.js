@@ -82,7 +82,8 @@ export default function Catalog({songs}) {
           {filtered.map((s) => (
             <Link key={s.id} to={s.permalink} className={styles.card}>
               <h2 className={styles.cardTitle}>{s.title}</h2>
-              {s.artist && <p className={styles.cardDesc}>{s.artist}</p>}
+              {/* No artist on the card — the song page carries the full
+                  metadata. Search still matches on artist. */}
               {s.note && (
                 <p className={styles.cardDesc}>
                   <em>{s.note}</em>
