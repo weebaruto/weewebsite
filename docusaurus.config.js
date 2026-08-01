@@ -50,6 +50,15 @@ const config = {
         routeBasePath: 'waza',
       },
     ],
+    [
+      './plugins/docusaurus-plugin-lyrics',
+      {
+        lyricsDir: './external/lyrics',
+        repoUrl: 'https://github.com/weebaruto/weelyrics',
+        branch: 'main',
+        routeBasePath: 'songbook',
+      },
+    ],
   ],
 
   presets: [
