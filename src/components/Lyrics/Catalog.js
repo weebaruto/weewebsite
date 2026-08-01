@@ -42,7 +42,7 @@ export default function Catalog({songs}) {
             The songs I keep coming back to, the ones that bring me back to
             myself and keep my feet on the ground. Search them, or{' '}
             <Link to={randomHref}>let one find you</Link>. Full lyrics open on
-            Genius.
+            the publisher's own site.
           </p>
         </header>
 

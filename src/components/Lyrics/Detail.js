@@ -53,7 +53,7 @@ export default function Detail({song}) {
         {geniusUrl && (
           <p className={styles.geniusButton}>
             <Link className="button button--primary" to={geniusUrl}>
-              Read the full lyrics on Genius ↗
+              Read the full lyrics ↗
             </Link>
           </p>
         )}

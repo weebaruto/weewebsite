@@ -213,7 +213,7 @@ These jobs are:
 
 <br  />
 
->**Next Step** - For each **Now** JTBD we execute our [discovery and learning loops](productspeak-4-product-discovery.md)
+>**Next Step** - For each **Now** JTBD we execute our [discovery and learning loops](./product-discovery.md)
 
 </details>
 
