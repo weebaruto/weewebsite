@@ -124,6 +124,12 @@ const config = {
             position: 'left',
             label: 'Song For Life',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'offBeatenTrackSidebar',
+            position: 'left',
+            label: 'Off The Beaten Track',
+          },
           {to: '/blog', label: '90-in-90', position: 'left'},
           {to: '/waza', label: 'Waza', position: 'left'},
           {to: '/profile', label: 'Chapters', position: 'left'},

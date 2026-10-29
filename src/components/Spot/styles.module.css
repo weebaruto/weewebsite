@@ -1,0 +1,57 @@
+.spot {
+  padding: 1.1rem 1.4rem;
+  margin-bottom: 1.25rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-left: 4px solid var(--ifm-color-primary);
+  border-radius: var(--ifm-global-radius);
+  background: var(--ifm-background-surface-color);
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.spot:hover {
+  border-color: var(--ifm-color-primary);
+  box-shadow: var(--ifm-global-shadow-lw);
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.title {
+  font-size: 1.15rem;
+  margin: 0;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.badge {
+  font-size: 0.75rem;
+  padding: 0.15rem 0.6rem;
+  border-radius: 1rem;
+  background: var(--ifm-color-emphasis-200);
+  color: var(--ifm-color-emphasis-800);
+  white-space: nowrap;
+}
+
+.body {
+  color: var(--ifm-color-emphasis-800);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* Markdown children bring their own paragraph and list margins. */
+.body > :first-child {
+  margin-top: 0;
+}
+
+.body > :last-child {
+  margin-bottom: 0;
+}
